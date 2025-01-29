@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on currently nothing
 - 📫 How to reach me insta
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...moon is a star
+- ⚡ Fun fact: ...
 
 <!---
 Varunnn-19/Varunnn-19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
