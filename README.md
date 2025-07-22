@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Varun Ramesh
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning python,c
+
